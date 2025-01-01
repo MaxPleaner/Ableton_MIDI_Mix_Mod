@@ -17,3 +17,8 @@ Unfortunately, it was too complicated to figure out the Solo row stuff, so the M
 ## To install:
 
 Follow instructions here https://help.ableton.com/hc/en-us/articles/209072009-Installing-third-party-remote-scripts
+
+## Layout
+
+![image](https://github.com/user-attachments/assets/d05c3c82-b7cf-438f-b13f-9982647edff3)
+
